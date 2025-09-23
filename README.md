@@ -1,9 +1,10 @@
 # Quiz-Application
 Quiz App
+<br/>
 ->  This is a simple, engaging quiz application designed to test your knowledge across various subjects. With a clean and user-friendly interface, you can select your preferred subject and the number of questions you want to tackle.
 
 Features:
-
+<br/>
 Subject Selection: Choose from four distinct subjects: Programming, Geography, Mathematics, and Entertainment.
 
 Customizable Quiz Length: Before starting, you can select the number of questions for your quiz: 5, 10, 15, 20, or 25.
