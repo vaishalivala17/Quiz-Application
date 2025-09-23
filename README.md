@@ -33,16 +33,16 @@ Screenshots:<br/>
 The following screenshots illustrate the key stages of the application:
 
 Quiz Configuration Screen:<br/>
-<img src="./images/quiz-config.png" alt="Quiz App Screenshot" width="400">
+<img src="./image/quiz-config.png" alt="Quiz App Screenshot" width="400">
 
 This screen allows you to select a quiz category and the number of questions before you start.
 
 In-Quiz Screen:<br/>
-<img src="./images/in-quiz.png" alt="In Quiz Screenshot" width="400">
+<img src="./image/in-quiz.png" alt="In Quiz Screenshot" width="400">
 
 This view shows a question in progress, including the multiple-choice options and the countdown timer.
 
 Results Screen:<br/>
-<img src="./images/result.png" alt="Result Quiz Screenshot" width="400">
+<img src="./image/result.png" alt="Result Quiz Screenshot" width="400">
 
 After completing the quiz, this screen displays your final score and provides an option to restart the quiz.
