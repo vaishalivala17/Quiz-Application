@@ -38,9 +38,11 @@ Quiz Configuration Screen:<br/>
 This screen allows you to select a quiz category and the number of questions before you start.
 
 In-Quiz Screen:<br/>
-(image: image_31ef12.png)
+<img src="" alt="In Quiz Screenshot" width="400">
+
 This view shows a question in progress, including the multiple-choice options and the countdown timer.
 
 Results Screen:<br/>
-(image: image_31f369.png)
+<img src="" alt="Result Quiz Screenshot" width="400">
+
 After completing the quiz, this screen displays your final score and provides an option to restart the quiz.
