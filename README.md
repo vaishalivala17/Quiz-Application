@@ -16,7 +16,7 @@ Instant Results: After completing the quiz, your total score is displayed, showi
 Restart Functionality: Not happy with your score? Simply click the "Restart Quiz" button to try again with a new set of questions.
 
 How to Use: 
-
+<br/>
 Select a Subject: On the main screen, click on one of the four subject buttons to choose your quiz category.
 
 Choose Quiz Length: Select the number of questions you want to answer (5, 10, 15, 20, or 25).
@@ -29,17 +29,18 @@ View Your Score: Once all questions are answered, the app will display your fina
 
 Restart: To play again, click the "Restart Quiz" button.
 
-Screenshots:
+Screenshots:<br/>
 The following screenshots illustrate the key stages of the application:
 
-Quiz Configuration Screen:
-(image: image_ca152e.png)
+Quiz Configuration Screen:<br/>
+<img src="" alt="Quiz App Screenshot" width="400">
+
 This screen allows you to select a quiz category and the number of questions before you start.
 
-In-Quiz Screen:
+In-Quiz Screen:<br/>
 (image: image_31ef12.png)
 This view shows a question in progress, including the multiple-choice options and the countdown timer.
 
-Results Screen:
+Results Screen:<br/>
 (image: image_31f369.png)
 After completing the quiz, this screen displays your final score and provides an option to restart the quiz.
